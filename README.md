@@ -276,9 +276,6 @@ ml-learning-platform/
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 **Built with love for ML learners everywhere**
