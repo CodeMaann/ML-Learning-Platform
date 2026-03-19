@@ -267,9 +267,6 @@ ml-learning-platform/
 ├── package.json
 └── README.md
 ```
-
-
-
 **Built with love for ML learners everywhere**
 ```
 
