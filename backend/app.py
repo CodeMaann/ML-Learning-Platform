@@ -20,7 +20,7 @@ models = {}
 datasets = {}
 
 def get_dataset(name):
-    """Load built-in datasets"""
+   
     try:
         if name == 'iris':
             data = load_iris()
