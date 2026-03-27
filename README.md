@@ -21,10 +21,6 @@ Create a `.env` file in the root directory:
 PORT=5000
 NODE_ENV=development
 
-# Database
-MONGODB_URI=mongodb://localhost:27017/ml_learning_platform
-# For production: mongodb+srv://user:pass@cluster.mongodb.net/ml_learning_platform
-
 # Security
 JWT_SECRET=your_super_secret_random_string_min_32_chars
 JWT_EXPIRE=7d
