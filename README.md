@@ -169,13 +169,6 @@ railway init
 railway up
 ```
 
-### MongoDB Atlas Setup
-
-1. Create free cluster at [MongoDB Atlas](https://mongodb.com/atlas)
-2. Database Access → Create new user
-3. Network Access → Add IP (0.0.0.0/0 for all)
-4. Clusters → Connect → Drivers → Node.js
-5. Copy connection string to `MONGODB_URI`
 
 ## Frontend Integration
 
