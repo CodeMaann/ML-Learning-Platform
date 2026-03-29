@@ -44,7 +44,7 @@ CLIENT_URL=http://localhost:3000
 {
   "username": "ml_learner",
   "email": "user@example.com",
-  "password": "securepassword123"
+  "password": ""
 }
 ```
 
