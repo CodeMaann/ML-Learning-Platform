@@ -16,19 +16,6 @@ Let me try to access the backend files directly:
 Let me check if there's a backend folder index or main file:
 Based on the frontend `package.json` I retrieved and the existing repository structure, here's a comprehensive, rewritten README.md for your ML Learning Platform:
 
-```markdown
-# 🧠 ML Learning Platform
-
-[![React](https://img.shields.io/badge/React-18.2+-61DAFB?logo=react)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5.0+-646CFF?logo=vite)](https://vitejs.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-47A248?logo=mongodb)](https://www.mongodb.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3+-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
-
-An interactive, full-stack Machine Learning learning platform featuring real-time model simulations, hands-on coding exercises, data visualization, and gamified education.
-
-![Platform Preview](https://via.placeholder.com/800x400/1e293b/ffffff?text=ML+Learning+Platform)
-
 ## ✨ Key Features
 
 ### 🎮 Interactive ML Playground
