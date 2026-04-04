@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react';
 import { useDropzone } from 'react-dropzone';
 import { Upload, FileText, Trash2, Download } from 'lucide-react';
-
+{/* all the requird data sets  */}
 const Datasets = () => {
   const onDrop = useCallback((acceptedFiles) => {
     // Handle file upload to backend
